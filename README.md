@@ -1,7 +1,7 @@
 
 # Sistema de Ouvidoria
 
-Este projeto é um sistema de ouvidoria desenvolvido em Java na faculdade, utilizando conceitos de herança, polimorfismo e programação orientada a objetos. O sistema permite que usuários registrem reclamações, sugestões e elogios, além de possibilitar o gerenciamento dessas interações por parte dos administradores.
+Este projeto é um sistema de ouvidoria desenvolvido em Java na faculdade, utilizando conceitos de herança, polimorfismo e programação orientada a objetos. O sistema permite que usuários registrem reclamações, sugestões e elogios.
 
 ## Funcionalidades
 
