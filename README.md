@@ -16,14 +16,16 @@ O sistema possui as seguintes opções:
 7. Sair do sistema
 
 
-# Contribuição
-Sinta-se à vontade para contribuir com melhorias para este projeto. Para contribuir, siga os passos abaixo:
+## Como usar
 
-Faça um fork do projeto.
-Crie uma branch para sua feature (git checkout -b feature/nova-feature).
-Faça commit das suas alterações (git commit -am 'Adiciona nova feature').
-Faça push para a branch (git push origin feature/nova-feature).
-Crie um novo Pull Request.
+Execute o programa em um ambiente Java.
+Siga as instruções exibidas no console para realizar as operações desejadas.
+
+## Requisitos
+Java
+
+Autor
+Este projeto foi desenvolvido por [Emanuel Silva].
 
 
 
