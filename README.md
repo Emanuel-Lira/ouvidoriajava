@@ -21,9 +21,6 @@ O sistema possui as seguintes opções:
 Execute o programa em um ambiente Java.
 Siga as instruções exibidas no console para realizar as operações desejadas.
 
-## Requisitos
-Java
-
 Autor
 Este projeto foi desenvolvido por [Emanuel Silva].
 
